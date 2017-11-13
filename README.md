@@ -1,4 +1,4 @@
-# Exercice-Cadavre-Exquis-Dayvid
+﻿# Exercice-Cadavre-Exquis-Dayvid
 
 ##### Welcome to my README file!
 ##### Feel free to write sometihng.
@@ -60,4 +60,9 @@ She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 
 
-Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions.
+Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions. 
+ 
+ 
+  Here's an offensive one : 
+ Why was schumacher a better driver than Hitler ? 
+ Because Hitler never ended a race.
