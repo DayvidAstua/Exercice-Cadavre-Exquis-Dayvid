@@ -38,11 +38,11 @@ It will be so *fun* when everybody will use it and we should manage `100` confli
 Master and branches power
 
 
-<<<<<<< HEAD
+
 Maurice walks into a bar.
 Bar tender says: "sorry pal shrimps not allowed in here"
 Maurice is frustrated.
-=======
+
 Verdomme verthonge
 
 Voor mij n'en dagschotel
@@ -52,13 +52,23 @@ Didier de tremmeri zit in't bad met een sproeir in zijn gat
 jupileir
 
 jupileirr
->>>>>>> e558273bacfaaccaff1561b7cd8e3a7f0c33ce50
+
 
 There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 
+
 ### coucou
 ### petite
 ### perruche
+
+
+Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions. 
+ 
+ 
+  Here's an offensive one : 
+ Why was schumacher a better driver than Hitler ? 
+ Because Hitler never ended a race.
+
