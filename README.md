@@ -38,6 +38,18 @@ It will be so *fun* when everybody will use it and we should manage `100` confli
 Master and branches power
 
 
+<<<<<<< HEAD
 Maurice walks into a bar.
 Bar tender says: "sorry pal shrimps not allowed in here"
 Maurice is frustrated.
+=======
+Verdomme verthonge
+
+Voor mij n'en dagschotel
+
+Didier de tremmeri zit in't bad met een sproeir in zijn gat
+
+jupileir
+
+jupileirr
+>>>>>>> e558273bacfaaccaff1561b7cd8e3a7f0c33ce50
