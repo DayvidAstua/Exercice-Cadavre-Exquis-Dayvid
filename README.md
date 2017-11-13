@@ -15,3 +15,6 @@ And hopefully this edit was done without creating conflict.
 ### Ik ging slapen met een doezoe, werd wakker met een ton
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+## *All you need is love, love, love
+## Love is all you need!*
