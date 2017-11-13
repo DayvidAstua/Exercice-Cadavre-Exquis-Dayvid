@@ -53,3 +53,8 @@ jupileir
 
 jupileirr
 >>>>>>> e558273bacfaaccaff1561b7cd8e3a7f0c33ce50
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
