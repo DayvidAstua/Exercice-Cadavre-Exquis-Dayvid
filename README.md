@@ -30,3 +30,9 @@ Now I think it's okay :bowtie:
 
 PUSH IT TO THE LIMIT
 
+
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
