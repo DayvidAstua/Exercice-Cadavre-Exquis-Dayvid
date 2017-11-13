@@ -36,3 +36,8 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
+
+
+Maurice walks into a bar.
+Bar tender says: "sorry pal shrimps not allowed in here"
+Maurice is frustrated.
