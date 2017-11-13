@@ -19,9 +19,13 @@ And hopefully this edit was done without creating conflict.
 ## *All you need is love, love, love
 ## Love is all you need!*
 
+<<<<<<< HEAD
 
 The green gras was so great.
 I sat and learn gits.
 Now I think it's okay :bowtie:
 
 
+=======
+PUSH IT TO THE LIMIT
+>>>>>>> 147a7c36d645fc0aa43edbe5da53e319bd6ea6ec
