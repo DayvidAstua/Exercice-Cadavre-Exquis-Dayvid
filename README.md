@@ -8,6 +8,9 @@ It was a large lovely garden,
 with soft green grass.
  Here and there over the grass stood beautiful flowers like stars,
 
+
+HoHoHo this is Santa Claus. COming to BRussels early this year. TO give many gifts and cheer.
+
 As the sun was setting down, we sat on the bench and breathed in the fresh air.
 Time was slowing down, almost becoming irrelevant.
 And hopefully this edit was done without creating conflict.
@@ -19,13 +22,11 @@ And hopefully this edit was done without creating conflict.
 ## *All you need is love, love, love
 ## Love is all you need!*
 
-<<<<<<< HEAD
 
 The green gras was so great.
 I sat and learn gits.
 Now I think it's okay :bowtie:
 
 
-=======
 PUSH IT TO THE LIMIT
->>>>>>> 147a7c36d645fc0aa43edbe5da53e319bd6ea6ec
+
